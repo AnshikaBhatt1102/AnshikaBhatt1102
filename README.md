@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anshika Bhatt</h1>
-<h3 align="center">A passionate Data Analytic Enginnerfrom India</h3>
+<h3 align="center">A passionate Data Analytic Enginner from India</h3>
 
 - 🔭 I’m currently working on **panoptic image segmentation**
 
