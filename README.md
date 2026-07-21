@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Anshika Bhatt</h1>
 <h3 align="center">A passionate Data Analytic Enginner from India</h3>
 
-- 🔭 I’m currently working on **panoptic image segmentation**
+- 🔭 I’m currently working on **Zomato data analysis**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning and tools**
 
-- 📝 I regularly write code on [leetcode](leetcode)
+- 📝 I regularly analysis data and try to get new meaningful insights.
 
 - 📫 How to reach me **bhattruchi458@gmail.com**
 
